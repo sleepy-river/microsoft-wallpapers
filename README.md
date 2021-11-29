@@ -11,4 +11,4 @@ To download wallpapers, run `main.go`, e.g.,
 ```sh
 go run main.go
 ```
-This may take a while. test
+This may take a while.
